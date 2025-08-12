@@ -1,4 +1,3 @@
-*Movie Review Website*
-This repository contains the frontend design of the project my group created for our class project.
+# Review Movies Finals
 
-It showcases the user interface and design elements but does not include backend functionality.
+This repository contains the **frontend design** of the project my group created for our class project.
